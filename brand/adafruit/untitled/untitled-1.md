@@ -15,11 +15,11 @@ _After performing this lab exercise, you will be able to:_
 
 _To perform this lab experiment, you will need:_
 
-![](../../../.gitbook/assets/no3.jpg)
+![](../../../.gitbook/assets/no3%20%283%29.jpg)
 
 #### [http://www.pakronics.com.au/collections/genuino-arduino-cc/products/genuino-101-pakr-m0012](http://www.pakronics.com.au/collections/genuino-arduino-cc/products/genuino-101-pakr-m0012)
 
-![](../../../.gitbook/assets/no4.jpg)
+![](../../../.gitbook/assets/no4%20%282%29.jpg)
 
 #### [http://www.pakronics.com.au/products/9v-battery-clip-with-5-5mm-2-1mm-plug-ada80](http://www.pakronics.com.au/products/9v-battery-clip-with-5-5mm-2-1mm-plug-ada80)
 

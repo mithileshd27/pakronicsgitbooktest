@@ -113,7 +113,7 @@ Before programming the Arduino/Genuino 101, it is important to learn following k
 
 * Connect the Arduino/Genuino 101 board with computer using USB cable.
 
-![](../../../.gitbook/assets/3%20%281%29.png)
+![](../../../.gitbook/assets/3-1.png)
 
 ### Arduino IDE / Library Setup
 
@@ -123,22 +123,22 @@ Before programming the Arduino/Genuino 101, it is important to learn following k
 
 * Open the sketch \(G101\_Ex-4\_Bluetooth\_Pedometer.ino\) on Arduino IDE.
 
-![](../../../.gitbook/assets/4%20%283%29.png)
+![](../../../.gitbook/assets/4-3.png)
 
 * From Tools menu, select the right board \(i.e., Arduino/Genuino 101\) and COM Port it is connected to.
 
-![](../../../.gitbook/assets/5.png)
+![](../../../.gitbook/assets/5%20%289%29.png)
 
 * Compile \(verify\) and run \(upload\) the sketch on Arduino board. In case of any upload error, try pressing the Master Reset Button just at the start of upload process.
 
-![](../../../.gitbook/assets/6%20%281%29.png)
+![](../../../.gitbook/assets/6-1.png)
 
 ### BLE App \(PC / Mobile\) Setup
 
 * BLE is supported only on Bluetooth 4.0 hardware. Ensure your computer / mobile / tablet hardware supports BLE. You’ll need appropriate BLE app to communicate with Genuino 101 over Bluetooth. We recommend following free apps: LightBlue for Mac and nRF Master Control for mobile \(Android / iOS\).
 * Open the app and scan for Bluetooth devices. Arduino / Genuino 101 should appear with the name “StepCounter”.
 
-![](../../../.gitbook/assets/7%20%282%29.png)
+![](../../../.gitbook/assets/7-2.png)
 
 * Click on “StepCounter” under the list of peripherals to connect to it. Successful connection will be indicated in two ways – \(i\) on-board LED at pin 13 would glow, \(ii\) the services offered by the device would show up in ‘services’ column. Selecting a service will show associated characteristics in respective tabs.
 

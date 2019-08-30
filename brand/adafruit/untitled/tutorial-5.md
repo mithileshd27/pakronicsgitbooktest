@@ -16,11 +16,11 @@ After performing this lab exercise, you will be able to:
 
 To perform this lab experiment, you will need:
 
-![Arduino / Genuino 101 &#x2013; main controller board&#x2028;and with USB cable](../../../.gitbook/assets/no3.jpg)
+![Arduino / Genuino 101 &#x2013; main controller board&#x2028;and with USB cable](../../../.gitbook/assets/no3%20%282%29.jpg)
 
 [http://www.pakronics.com.au/collections/genuino-arduino-cc/products/genuino-101-pakr-m0012 ](http://www.pakronics.com.au/collections/genuino-arduino-cc/products/genuino-101-pakr-m0012%20)
 
-![9V Battery Connector \(for portability\)](../../../.gitbook/assets/no4.jpg)
+![9V Battery Connector \(for portability\)](../../../.gitbook/assets/no4%20%283%29.jpg)
 
 [http://www.pakronics.com.au/products/9v-battery-clip-with-5-5mm-2-1mm-plug-ada80](http://www.pakronics.com.au/products/9v-battery-clip-with-5-5mm-2-1mm-plug-ada80)
 
@@ -94,7 +94,7 @@ Before programming the Arduino/Genuino 101, it is important to learn following k
 
 * Connect the Arduino/Genuino 101 board with computer using USB cable.
 
-![](../../../.gitbook/assets/2%20%281%29.png)
+![](../../../.gitbook/assets/2-1.png)
 
 ### Arduino IDE / Library Setup
 
@@ -108,11 +108,11 @@ Before programming the Arduino/Genuino 101, it is important to learn following k
 
 * From Tools menu, select the right board \(i.e., Arduino/Genuino 101\) and COM Port it is connected to.
 
-![](../../../.gitbook/assets/4%20%282%29.png)
+![](../../../.gitbook/assets/4-2.png)
 
 * Compile \(verify\) and run \(upload\) the sketch on Arduino board. In case of any upload error, try pressing the Master Reset Button just at the start of upload process.
 
-![](../../../.gitbook/assets/5%20%283%29.png)
+![](../../../.gitbook/assets/5-3.png)
 
 * Open the “serial monitor” of Arduino IDE. It will be used to display the timer switch state, down-counting and to enter time for the switch.
 
@@ -132,7 +132,7 @@ Before programming the Arduino/Genuino 101, it is important to learn following k
 
 * Once the counting to specified time is complete, the LED is turned off and user is prompted to specify the time again.
 
-![](../../../.gitbook/assets/10.png)
+![](../../../.gitbook/assets/10%20%284%29.png)
 
 ## Additional Exercise
 
