@@ -14,7 +14,7 @@ After performing this lab exercise, you will be able to:
 
 To perform this lab experiment, you will need:
 
-![Arduino / Genuino 101 &#x2013; main controller board&#x2028;and with USB cable](../../../.gitbook/assets/no3%20%282%29.jpg)
+![Arduino / Genuino 101 &#x2013; main controller board and with USB cable](../../../.gitbook/assets/no3%20%282%29.jpg)
 
 [http://www.pakronics.com.au/collections/genuino-arduino-cc/products/genuino-101-pakr-m0012 ](http://www.pakronics.com.au/collections/genuino-arduino-cc/products/genuino-101-pakr-m0012%20)
 
