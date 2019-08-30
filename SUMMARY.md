@@ -2,6 +2,8 @@
 
 * [Welcome Page](README.md)
 * [Brand](brand/README.md)
+  * [Seed Studio](brand/seed-studio/README.md)
+    * [Grove Modules](brand/seed-studio/grove-modules.md)
   * [Makeblock](brand/makeblock/README.md)
     * [MBot](brand/makeblock/mbot/README.md)
       * [Tutorials](brand/makeblock/mbot/tutorials/README.md)
