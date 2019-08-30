@@ -1,6 +1,4 @@
-# Tutorial 3
-
-## Board Orientation Detection
+# Board Orientation Detection
 
 ## Learning Objectives:
 

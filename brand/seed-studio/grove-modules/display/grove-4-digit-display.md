@@ -22,8 +22,6 @@ Grove - 4-Digit Display module is a 12-pin module. In this module, we utilise a 
 * Grove compatible interface \(3.3V/5V\)
 * 8 adjustable luminance levels
 
-!!!Tip More details about Grove modules please refer to [Grove System](http://wiki.seeed.cc/Grove_System/)
-
 ## Application Ideas
 
 * Time display
